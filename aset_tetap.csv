@@ -1,0 +1,6 @@
+aset_id,kategori,nilai_perolehan,umur_ekonomis,metode
+AST001,Bangunan,5000000000,20,garis lurus
+AST002,Mesin,2000000000,10,saldo menurun
+AST003,Kendaraan,1000000000,5,garis lurus
+AST004,Peralatan,750000000,7,saldo menurun
+AST005,Perangkat IT,500000000,3,garis lurus
